@@ -1,0 +1,17 @@
+{
+  "products": [
+    {
+      "id": 26,
+      "name": "BRAIN WAVES GREY",
+      "description": "SIGNATURE ARTIST COLLECTION - Anthony Faucheux. Designed & hand printed in Ireland using water based eco-friendly dyes. Normal fitting t-shirt for comfort and style",
+      "price": 34.00,
+      "manufacturer": "GROWN",
+      "manufacturer_website": "https://www.grown.ie",
+      "image": "",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Male", "Clothing & Fashion"]
+    },
+    
+  ]
+}
