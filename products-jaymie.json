@@ -7,7 +7,7 @@
       "price": 34.00,
       "manufacturer": "GROWN",
       "manufacturer_website": "https://www.grown.ie",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/26.jpg",
       "size": "small",
       "weight": 1,
       "tags": ["Male", "Clothing & Fashion"]
@@ -19,7 +19,7 @@
       "price": 34.00,
       "manufacturer": "GROWN",
       "manufacturer_website": "https://www.grown.ie",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/27.jpg",
       "size": "small",
       "weight": 1,
       "tags": ["Female", "Clothing & Fashion"]
@@ -31,7 +31,7 @@
       "price": 8.00,
       "manufacturer": "Brendella",
       "manufacturer_website": "https://www.brendellaretail.com",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/28.jpg",
       "size": "small",
       "weight": 1,
       "tags": ["Female", "Clothing & Fashion"]
@@ -43,7 +43,7 @@
       "price": 190.00,
       "manufacturer": "Moon and Mellow",
       "manufacturer_website": "https://www.moonandmellow.com",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
       "size": "small",
       "weight": 1,
       "tags": ["Female", "Clothing & Fashion"]
