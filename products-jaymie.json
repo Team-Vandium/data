@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 26,
-      "name": "BRAIN WAVES GREY",
+      "name": "BRAIN WAVES GREY T-SHIRT",
       "description": "SIGNATURE ARTIST COLLECTION - Anthony Faucheux. Designed & hand printed in Ireland using water based eco-friendly dyes. Normal fitting t-shirt for comfort and style",
       "price": 34.00,
       "manufacturer": "GROWN",
@@ -12,6 +12,42 @@
       "weight": 1,
       "tags": ["Male", "Clothing & Fashion"]
     },
+    {
+      "id": 27,
+      "name": "Plant Medicine T-Shirt",
+      "description": "Unbleached, undyed, 100% cotton threads this garments still has little pieces of cotton plant running through it, it’s the imperfections that make it perfect. Designed & stitched in Ireland ",
+      "price": 34.00,
+      "manufacturer": "GROWN",
+      "manufacturer_website": "https://www.grown.ie",
+      "image": "",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 28,
+      "name": "Brendella Scarves",
+      "description": "Something simple to get you through the winter months, or the windy summers! Available in a variety of colours and the choice of two different widths: 23cm or 30cm. Length: 155cm",
+      "price": 8.00,
+      "manufacturer": "Brendella",
+      "manufacturer_website": "https://www.brendellaretail.com",
+      "image": "",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 29,
+      "name": "The Long Set - Jungle - 100% Cotton Pyjamas",
+      "description": "Our cotton pyjamas are designed with comfort in mind -They feel so amazing on. But we also wanted to make sure that you would looked really really good in them too.",
+      "price": 190.00,
+      "manufacturer": "Moon and Mellow",
+      "manufacturer_website": "https://www.moonandmellow.com",
+      "image": "",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Female", "Clothing & Fashion"]
+    }
     
   ]
 }
