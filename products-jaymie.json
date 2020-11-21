@@ -10,7 +10,7 @@
       "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/26.jpg",
       "size": "small",
       "weight": 1,
-      "tags": ["Male", "Clothing & Fashion"]
+      "tags": ["Parent", "Male", "Clothing & Fashion"]
     },
     {
       "id": 27,
@@ -22,7 +22,7 @@
       "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/27.jpg",
       "size": "small",
       "weight": 1,
-      "tags": ["Female", "Clothing & Fashion"]
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
     },
     {
       "id": 28,
@@ -31,10 +31,10 @@
       "price": 8.00,
       "manufacturer": "Brendella",
       "manufacturer_website": "https://www.brendellaretail.com",
-      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/28.jpg",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/28.JPG",
       "size": "small",
       "weight": 1,
-      "tags": ["Female", "Clothing & Fashion"]
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
     },
     {
       "id": 29,
@@ -46,8 +46,127 @@
       "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
       "size": "small",
       "weight": 1,
-      "tags": ["Female", "Clothing & Fashion"]
-    }
-    
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 30,
+      "name": "Slieve League Hat Tweed",
+      "description": "A feminine style inspired by the breathtaking colours dispersed throughout the Slieve League Cliffs and surrounding landscape in County Donegal.",
+      "price": 85.00,
+      "manufacturer": "Hanna Hats",
+      "manufacturer_website": "https://hannahats.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 31,
+      "name": "Navy Striped Miki Sweater",
+      "description": "CLASSIC FIT SWEATER WITH CREW NECK AND MULTICOLORED HORIZONTAL LINES. MADE OF WOOL AND WITH RIBBED EDGES.",
+      "price": 139.90,
+      "manufacturer": "Fresh Cuts Clothing",
+      "manufacturer_website": "https://freshcutsclothing.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Male", "Clothing & Fashion"]
+    },
+    {
+      "id": 32,
+      "name": "Fresh Kids Last Light Crew",
+      "description": "Our super soft 100% Organic Cotton Fresh Kids Zip Crew is easy to layer into your little bee's outfits to provide some warmth. Features our Limited Edition embroidered print to give it that Fresh Kids flare.",
+      "price": 29.95,
+      "manufacturer": "Fresh Cuts Clothing",
+      "manufacturer_website": "https://freshcutsclothing.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Child", "Male", "Clothing & Fashion"]
+    },
+    {
+      "id": 33,
+      "name": "Ski bunny hat",
+      "description": "Goroues knitted hat with fleece lining, comes in so many gorgeous colours! Made from Viscose.",
+      "price": 25.00,
+      "manufacturer": "quack + dirk",
+      "manufacturer_website": "https://www.qplusd.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Both", "Clothing & Fashion"]
+    },
+    {
+      "id": 34,
+      "name": "The rosemary set",
+      "description": "This gift set coveres all the bases. Give your pal the gift of warmth! There's superb value in these pressie packs. Gorgeous fleece lined Hat is normally €25, Gloves normally €15, medium weight colourful scarf normally €19. You save €10!",
+      "price": 49.00,
+      "manufacturer": "quack + dirk",
+      "manufacturer_website": "https://www.qplusd.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 35,
+      "name": "HOWYA Hat (Kids)",
+      "description": "Havin' the craic from head to toe just got into the whole new level. Let the hat do the talking. The kids deserve a bitta 'Howya' and a cosy head. Made for all genders and weather forecasts will keep your little ones toasty and happy.",
+      "price": 19.00,
+      "manufacturer": "Irish Socksciety",
+      "manufacturer_website": "https://irishsocksciety.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Child", "Both", "Clothing & Fashion"]
+    },
+    {
+      "id": 36,
+      "name": "Sound! Session socks",
+      "description": "These socks are only for the Sound! people. Get yours quick.",
+      "price": 9.00,
+      "manufacturer": "Irish Socksciety",
+      "manufacturer_website": "https://irishsocksciety.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Both", "Clothing & Fashion"]
+    },
+    {
+      "id": 37,
+      "name": "Men's Pullover Hoodie in Mauve",
+      "description": "Super-cosy, fleecy-feel interior with a relaxed-style fit, this pullover hoodie is perfect for post-workout and weekend-wear vibes.",
+      "price": 65.00,
+      "manufacturer": "Gym + Coffee",
+      "manufacturer_website": "https://gympluscoffee.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Male", "Clothing & Fashion"]
+    },
+    {
+      "id": 38,
+      "name": "Women's Chill Hoodie in Green-White",
+      "description": "A Classic style fit with our softest hoodie fabric yet and now with white accents! Slide this Chill Hoodie on for your most comfortable post-workout cool-down, or save it for curled-up and cosy weekends.",
+      "price": 65.00,
+      "manufacturer": "Gym + Coffee",
+      "manufacturer_website": "https://gympluscoffee.com",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Female", "Clothing & Fashion"]
+    },
+    {
+      "id": 39,
+      "name": "Jocelyn Jacket",
+      "description": "Cut from a soft cotton drill fabric, the Jocelyn Jacket features contrast buttons engraved with the ilk motto. Considered, practical pockets add another level of usability to the jacket while also creating a unique finish. Stylish and understated, yet full of subtle design detailing.",
+      "price": 210.00,
+      "manufacturer": "ilk",
+      "manufacturer_website": "https://ilk.ie",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Male", "Clothing & Fashion"]
+    },
   ]
 }
