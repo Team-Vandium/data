@@ -168,5 +168,137 @@
       "weight": 1,
       "tags": ["Parent", "Male", "Clothing & Fashion"]
     },
+    {
+      "id": 40,
+      "name": "Brian Walsh hurleys Wexford Style",
+      "description": "Top quality Brian Walsh Hurley Wexford Style Made from top quality Ash. The Wexford style has a large Bas which Gives better overall control and balance.",
+      "price": 28.00,
+      "manufacturer": "Brian Walsh Hurleys",
+      "manufacturer_website": "https://www.brianwalshhurleysandsports.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "large",
+      "weight": 2,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 41,
+      "name": "Cooper Junior SK100 Helmet - White",
+      "description": "Top quality Brian Walsh Hurley Wexford Style Made from top quality Ash. The Wexford style has a large Bas which Gives better overall control and balance.",
+      "price": 85.00,
+      "manufacturer": "Brian Walsh Hurleys",
+      "manufacturer_website": "https://www.brianwalshhurleysandsports.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "medium",
+      "weight": 2,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 42,
+      "name": "McKeever All-County Sliotars",
+      "description": "The new top of the range hurling ball from McKeever.",
+      "price": 6.78,
+      "manufacturer": "McKeever",
+      "manufacturer_website": "https://www.thegaastore.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 43,
+      "name": "Hurley Master Hurling Rebounder Net",
+      "description": "Quick & easy to assemble. Y Frame design. Suitable for all skill levels",
+      "price": 39.49,
+      "manufacturer": "Hurley Master",
+      "manufacturer_website": "https://www.thegaastore.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "large",
+      "weight": 5,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 44,
+      "name": "Hurlóg",
+      "description": "Hurlog is designed specifically for children as a beginner starter pack. This set includes both a soft, light hurl and sliotar.",
+      "price": 27.00,
+      "manufacturer": "Kite Sport",
+      "manufacturer_website": "https://www.oneills.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "medium",
+      "weight": 2,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 45,
+      "name": "First Touch Football",
+      "description": "The first touch Go Games ball combines the quality GAA football design that O’Neills has been known for since 1918 with a new stand-out style; a colourful twist on a classic.",
+      "price": 10.00,
+      "manufacturer": "O'Neills",
+      "manufacturer_website": "https://www.oneills.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 46,
+      "name": "Triple Grip rugby Ball",
+      "description": "Triple grip rugby ball features 4 gripped panels for an easier catch. Suitable for training or matches, tested for reliability and performance.",
+      "price": 15.00,
+      "manufacturer": "O'Neills",
+      "manufacturer_website": "https://www.oneills.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Both", "Sports"]
+    },
+    {
+      "id": 47,
+      "name": "Sportcraft Adjustable Basketball Net With Stand",
+      "description": "This Sportcraft Basketball Net is the perfect choice for young aspiring basketball players. Durable, stable and portable, this makes it ideal for playing with friends and family.",
+      "price": 99.00,
+      "manufacturer": "O'Neills",
+      "manufacturer_website": "https://www.oneills.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "large",
+      "weight": 10,
+      "tags": ["Child", "Both", "Sports"]
+    },
+    {
+      "id": 48,
+      "name": "All Ireland Football",
+      "description": "White O’Neills All Ireland football, featured in GAA matches at all levels. Our iconic Gaelic GAA ball features eighteen stitched panels and O’Neills branding.",
+      "price": 50.00,
+      "manufacturer": "O'Neills",
+      "manufacturer_website": "https://www.oneills.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "Small",
+      "weight": 1,
+      "tags": ["Parent", "Both", "Sports"]
+    },
+    {
+      "id": 49,
+      "name": "Celtic Legends Chess Set",
+      "description": "The Celtic Legends Chess Set is inspired from Ireland’s mystical days when King battled King and in particular the battles between the Tuatha and Formor tribes.",
+      "price": 340.00,
+      "manufacturer": "O'Gowna Studios",
+      "manufacturer_website": "https://www.totallyirishgifts.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "Medium",
+      "weight": 5,
+      "tags": ["Parent", "Both", "Sports"]
+    },
+    {
+      "id": 50,
+      "name": "Swingball Classic",
+      "description": "Swingball is a great way to develop hand-eye co-ordination in younger players and is also ideal to play as a family.",
+      "price": 27.07,
+      "manufacturer": "McKeever",
+      "manufacturer_website": "https://www.thegaastore.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/29.jpg",
+      "size": "Medium",
+      "weight": 5,
+      "tags": ["Child", "Both", "Sports"]
+    }
   ]
 }
