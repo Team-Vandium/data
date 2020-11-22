@@ -1,15 +1,148 @@
 {
   "products": [
     {
-      "id": 12345,
-      "name": "2320 15\" Laptop",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "price": 1200,
-      "manufacturer": "dell",
-      "image": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/15_7590/global_spi/ng/notebook-inspiron-15-7590-campaign-hero-504x350-ng.psd?fmt=jpg&wid=570&hei=400",
+      "id": 51,
+      "name": "TRIANGULAR BASED COPPER LAMP",
+      "description": "A clever reuse of old gas copper pipe. This beautiful copper pipe lamp has been bent by hand into the traditional form of a triangular base using mostly reclaimed and recycled plumbing pipe. The copper is hand polished to a natural finish that will age and develop character over time.  ",
+      "price": 125.0,
+      "manufacturer": "Kopper Kreation",
+      "manufacturer_website": "https://www.kopperkreation.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/51.jpg",
       "size": "small",
       "weight": 4,
-      "tags": ["parent", "electronics", "computer"]
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 52,
+      "name": "Apothecary Amber Jar Candle – Christmas",
+      "description": "Reminiscent of the days of Christmas in an Irish country house with the aromas of spicy and fruity baking wafting from the kitchen.",
+      "price": 18.5,
+      "manufacturer": "Soilse",
+      "manufacturer_website": "https://soilsecandlecompany.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/52.jpg",
+      "size": "small",
+      "weight": 2,
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 53,
+      "name": "Coco 3 in 1 Cot Bed",
+      "description": "Inspired by the spirited and imaginative stylistic elements of the ART DECO movement, the Coco 3 in 1 cot or crib is a classic, timeless designer baby bed with its’ playful curves and geometry.",
+      "price": 499.0,
+      "manufacturer": "Bunny & Clyde",
+      "manufacturer_website": "https://bunnyandclyde.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/53.jpg",
+      "size": "large",
+      "weight": 15,
+      "tags": ["Child", "Both", "Home"]
+    },
+    {
+      "id": 54,
+      "name": "Little Village Baby Bedding",
+      "description": "Bunny & Clyde’s baby bedding is perfect for large cot beds and toddler beds. Our cot bed and toddler bed linen set is made from luxurious  200 thread count 100% cotton percale and printed with our signature ‘Happy Village’ design in turquoise with a strip of coral on one side and a black and white geometric print on the reverse.",
+      "price": 80.0,
+      "manufacturer": "Bunny & Clyde",
+      "manufacturer_website": "https://bunnyandclyde.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/54.jpg",
+      "size": "medium",
+      "weight": 2,
+      "tags": ["Child", "Both", "Home"]
+    },
+    {
+      "id": 55,
+      "name": "Coastal Sands Rug",
+      "description": "Designed by Patricia Murphy, Dimensions: 7′ x 2’4″ / 2.15 m x 0.7m, Materials: 100% Pure New Zealand Wool",
+      "price": 1047.0,
+      "manufacturer": "Ceadogan",
+      "manufacturer_website": "https://www.ceadogan.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/55.jpg",
+      "size": "medium",
+      "weight": 10,
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 56,
+      "name": "CHRISTMAS CANDLE GIFT SET",
+      "description": "The Christmas Candle Gift Set Contains: 1x Christmas Tree up to 40hr candle,1x Christmas Night & Christmas Tree Wax Melts. Our Christmas Tree Candle is hand poured using Coconut & Rapeseed Wax",
+      "price": 40.0,
+      "manufacturer": "The Good Garden",
+      "manufacturer_website": "https://www.thegoodgarden.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/56.jpg",
+      "size": "small",
+      "weight": 3,
+      "tags": ["Parent", "Female", "Home"]
+    },
+    {
+      "id": 57,
+      "name": "Conical Lamp & Coolie Shade",
+      "description": "This conical lamp base and matching coolie shade is our best selling lamp and make an idea Wedding Gift.",
+      "price": 219.0,
+      "manufacturer": "Louis Mulcahy",
+      "manufacturer_website": "https://louismulcahy.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/57.jpg",
+      "size": "medium",
+      "weight": 6,
+      "tags": ["Parent", "Female", "Home"]
+    },
+    {
+      "id": 58,
+      "name": "Map of Ireland Throw",
+      "description": "With our Map of Ireland throw blanket you can wrap yourself up in Ireland no matter where you are in the world. It’s a particularly thoughtful gift for loved ones living far from home who may not be able to travel this Christmas.",
+      "price": 149.0,
+      "manufacturer": "Loominations",
+      "manufacturer_website": "https://www.loominations.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/58.jpg",
+      "size": "medium",
+      "weight": 4,
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 59,
+      "name": "Ballyshane Medium Cheese Board",
+      "description": "A really one of a kind piece! Perfect for serving everything from antipasti, cheeses, party nibbles or just about anything you can think of!",
+      "price": 39.0,
+      "manufacturer": "Ballyshane",
+      "manufacturer_website": "https://www.madeofirish.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/59.jpg",
+      "size": "medium",
+      "weight": 3,
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 60,
+      "name": "COPPER LEAF PLACE MATS",
+      "description": "Beautifully handcrafted each set of  Copper Leaf place mats are hand gilded with copper leaf to create a unique textured pattern on each piece. These gorgeous place mats will add an elegant and refined finishing touch to any table.",
+      "price": 34.0,
+      "manufacturer": "Slated",
+      "manufacturer_website": "https://www.slated.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/60.jpg",
+      "size": "small",
+      "weight": 3,
+      "tags": ["Parent", "Both", "Home"]
+    },
+    {
+      "id": 61,
+      "name": "RELAXATION GIFT BOX",
+      "description": "This gift box contains our Blush and Namaste candles, with a card of your choice and free delivery. If this is a gift, we can include a hand-written note in the card for you!",
+      "price": 42.0,
+      "manufacturer": "Milis",
+      "manufacturer_website": "https://www.mymilis.com/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/61.jpg",
+      "size": "small",
+      "weight": 1,
+      "tags": ["Parent", "Female", "Home"]
+    },
+    {
+      "id": 62,
+      "name": "Coolree Rocking Chair",
+      "description": "This Irish-made rocking chair will instantly become a treasured piece to enjoy for many, many years",
+      "price": 1195.0,
+      "manufacturer": "Coolree Design",
+      "manufacturer_website": "https://coolreedesign.ie/",
+      "image": "https://raw.githubusercontent.com/Team-Vandium/data/main/62.jpg",
+      "size": "large",
+      "weight": 12,
+      "tags": ["Parent", "Both", "Home"]
     }
   ]
 }
