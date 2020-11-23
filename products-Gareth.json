@@ -1,0 +1,347 @@
+{
+"Free Delivery Threshold": 100,
+
+"Delivery Cost": [
+{
+"name": "small500g",
+"Cost": 3
+},
+{
+"name": "small2kg",
+"Cost": 4.5
+},
+{
+"name": "small4kg",
+"Cost":  6
+},
+{
+"name": "medium500g",
+"Cost": 5
+},
+{
+"name": "medium2kg",
+"Cost": 7.5
+},
+{
+"name": "medium4kg",
+"Cost": 120
+},
+{
+"name": "bulky500g",
+"Cost": 8
+},
+{
+"name": "bulky2kg",
+"Cost": 12
+},
+{
+"name": "bulky4kg",
+"Cost": 16
+}
+],
+"ProductData": [
+{
+"id": "76"
+"name": "Little Folk, Liberties, Dublin – signed limited edition giclée",
+"description": "by Maxi, hand signed numbered by the artist, limited edition of only 50 prints, giclée(archival) print on 240 matt ultra stock, size – 420mm x 420mm",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/76.jpg",
+"price": 60,
+"manufacturer": "Maxi",
+"size": "small",
+"weight": 500,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "77"
+"name": "1916 Rising – Thomas J. Clarke – signed limited edition print",
+"description": "Limited edition of 500 Comes in either A4(297mm x 210mm) and A3(297mm x 420mm) size print on uncoated, matte 300gsm stock",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/77.jpg",
+"price": 20,
+"manufacturer": "Homebound",
+"size": "small",
+"weight": 500,
+"tags": ["Grandparent","Male","Art"]
+}
+
+{
+"id": "78"
+"name": "Change” , Dublin Castle – signed limited edition print,
+"description": "Size : A4 / A3, Print type : Digital on 300gram, Limited to 100, Numbered and signed by the artist",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/78.jpg",
+"price": 28 ,
+"manufacturer": "Sketchy Inc",
+"size": "Small",
+"weight": 500,
+"tags": ["Child","Both","Art"]
+}
+
+{
+"id": "79"
+"name":  "Pigeonhouse, Dublin – The Big Smoke Poolbeg",
+"description": "Digital print on 280GSM matte paper, Size – A4 210mm x 297mm",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/79.jpg",
+"price": 15,
+"manufacturer": "Fergus O’Neill",
+"size": "Small",
+"weight": 500,
+"tags": ["Parent","Both","Art"]
+}
+
+
+
+{
+"id": "80"
+"name": "Dublin Map Laser Cut by Alljoy ",
+"description": "Overall size including mount : 30cm x 24cm(slightly bigger than A4), Cut paper size : 20.5cm x 16.5cm, Created by laser cutting and inspired by everyday life in Dublin.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/80.jpg",
+"price": 35,
+"manufacturer": "Alljoy Design",
+"size": "Small",
+"weight": 500 ,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "81"
+"name": "Boating on the Liffey, Dublin, Ireland",
+"description": "Only Artist Proofs left, Limited edition to 100, Archival print of original hand cut photo collage, Numbered and signed by Sean, 297mm x 420mm",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/81.jpg",
+"price": 100,
+"manufacturer": "Sean Hillen",
+"size": "Small",
+"weight": 500,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "82"
+"name": "Dublin – Signed Print",
+"description": " Signed by the artist /  A3 size(420mm x 297mm) / digital print on 300 GSM uncoated matte paper",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/82.jpg",
+"price": 40,
+"manufacturer": "Jacob Stack",
+"size": "Bulky",
+"weight": 2,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "83"
+"name": "Sweat Dreams – Signed Print",
+"description": " Printed in Dublin onto 300gsm UPM Fine Uncoated Matte Stock. Signed by the artist by hand.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/83.jpg",
+"price": 18,
+"manufacturer": " Claire Provoust ",
+"size": "Medium",
+"weight": 500,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "84"
+"name": " Dun Laoghaire, Dublin – Signed Print",
+"description": " signed digital print / 350grm stonemark paperTwo sizes /  A3 size 297mm x 420mm €25 / unframed ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/84.jpg",
+"price": 25,
+"manufacturer": "Alex Martinez del Rio",
+"size": "Medium",
+"weight": 500,
+"tags": ["Parent","Both","Art"]
+}
+
+{
+"id": "85"
+"name": " LAUNCHING THE CURRACH ART PRINT",
+"description": " National Gallery of Ireland Art Prints are the perfect way to have your own masterpiece. Printed on high quality 240gsm Satin paper using Epson Ultrachrome Archival inks, each print have a stated light fastness and image permanence of up to, at least 75 years. ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/85.jpg",
+"price": 40,
+"manufacturer": "National Gallery of Ireland",
+"size": "Bulky",
+"weight": 2,
+"tags": ["Grand-Parent","Both","Art"]
+}
+
+{
+"id": "86"
+"name": "A CONNEMARA VILLAGE ART PRINT",
+"description": " National Gallery of Ireland Art Prints are the perfect way to have your own masterpiece. Printed on high quality 240gsm Satin paper using Epson Ultrachrome Archival inks, each print have a stated light fastness and image permanence of up to, at least 75 years.  ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/86.jpg",
+"price": 30,
+"manufacturer": "National Gallery of Ireland",
+"size": "Bulky",
+"weight": 2,
+"tags": ["Grand-Parent","Both","Art"]
+}
+
+{
+"id": "87"
+"name": " 55 Pieces Wooden Box Art Set",
+"description": " The medium wooden art set contains some professional paints and multi- colored pencils. ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/87.jpg",
+"price": 18,
+"manufacturer": "Art & Hobby Ireland",
+"size": "Bulky",
+"weight": 2,
+"tags": ["Child","Both","Art"]
+}
+
+{
+"id": "88"
+"name": " The Ultimate Box of Chocs - 1Kg of Butlers Chocolates ",
+"description": " The ultimate chocolate gift! A deluxe assortment of 72 chocolate truffles and pralines in milk, dark and white chocolate varieties. This sumptuous medley of chocolates includes milk chocolate hazelnut caramel, white chocolate flake and dark double chocolate. (This selection contains 72 assorted chocolates in a single layer and some chocolates contain alcohol). ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/88.jpg",
+"price": 52,
+"manufacturer": "Butlers Chocolates",
+"size": "Medium",
+"weight": 2,
+"tags": ["Grand-Parents","Both","Food & Drink"]
+}
+
+{
+"id": "89"
+"name": "Christmas Carol Hamper",
+"description": " A large alcohol-free hamper that makes a great office treat or family gift to be shared and enjoyed by adults and children alike. ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/89.jpg",
+"price": 75,
+"manufacturer": "Christmas Hampers Ireland",
+"size": "Bulky",
+"weight": 4,
+"tags": ["Parent","Both","Food & Drink"]
+}
+
+{
+"id": "90"
+"name": "Home Brewing Kit – Indian Pale Ale",
+"description": " Brewbarrel is the fastest and easiest way to brew your own beer at home. It is an exceptional gift for every occasion. It contains an 8.8 pints (5 litre) keg and all necessary ingredients to brew your own beer in it. Due to an innovative brewing process, specifically developed for home brewing, you can tap your beer after just one week. ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/90.jpg",
+"price": 40,
+"manufacturer": "Brew Kits Ireland",
+"size": "Bulky",
+"weight": 4,
+"tags": ["Parents","Male","Food & Drink"]
+}
+
+{
+"id": "91"
+"name": " Retro Sweet Hamper ",
+"description": " Give someone a real blast from the past with this Retro Sweet Hamper. Packed full of all their favourites from the '70s and '80s. Arrives beautifully presented in a red hamper box. A great gift that will take your recipient's taste buds for a walk down memory lane!",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/91.jpg",
+"price": 45,
+"manufacturer": "Barrotts",
+"size": "Medium",
+"weight": 2 ,
+"tags": ["Child","Both","Food & Drink"]
+}
+
+{
+"id": "92"
+"name": " Double Dada Wine in Wooden Gift Box",
+"description": " Two fantastic Argentinean wines; a great gift for every wine lover.  The wine pair is presented in a wooden gift box. Reusable, the box is packed inside a separate shipping box for secure transport. ",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/92.jpg",
+"price": 35,
+"manufacturer": "DaDa",
+"size": "Medium",
+"weight": 4,
+"tags": ["Grand-Parent","Parent","Food & Drink"]
+}
+
+{
+"id": "93"
+"name": " Veuve Clicquot Champagne in Gift Box ",
+"description": " Beautifully presented bottle of Veuve Clicquot Champagne - makes a perfect gift for any occasion.Champagne is a wine of legend. The entire history of the Veuve Clicquot House is marked by mythical wines, all of which respect the demand for quality that was the force that drove Madame Clicquot",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/93.jpg",
+"price": 70,
+"manufacturer": "Veuve",
+"size": "Medium",
+"weight": 2,
+"tags": ["Parents","Both","Food & Drink"]
+}
+
+{
+"id": "94"
+"name": "Double Mixed Wine & Chocolate Hamper",
+"description": "Two amazing wines coupled with an elegant box of Lily O'Briens gift-wrapped chocolates. A great gift that is guaranteed to tick all the boxes for a night in.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/94.jpg",
+"price": 40,
+"manufacturer": "www.gifts.ie",
+"size": "Medium",
+"weight": 4,
+"tags": ["Grand-Parents","Both","Food & Drink"]
+}
+
+{
+"id": "95"
+"name": "Christmas Tradition Hamper",
+"description": "Three superb wines, Irish cream and a plethora of delicious goodies make up this sophisticated and scrumptious hamper arrangement.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/95.jpg",
+"price": 100,
+"manufacturer": "www.gifts.ie",
+"size": "Bulky",
+"weight": 4,
+"tags": ["Parents","Both","Food & Drink"]
+}
+
+{
+"id": "96"
+"name": "Cheesemongers Selection Gift Hamper",
+"description": "This year we have curated a special cheese selection. A selection of cheeses, perfect for cheese lovers and novices alike alongside a Gubbeen salami and Sheridans own chutney for cheese and brown bread crackers. Ideal for a ready set Christmas or New Years cheese board or gift.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/96.jpg",
+"price": 35,
+"manufacturer": "Sheridan Cheesemonger",
+"size": "Medium",
+"weight": 2,
+"tags": ["Grand-Parent","Both","Food & Drink"]
+}
+
+{
+"id": "97"
+"name": "Craft Gin Gift Hamper",
+"description": "Dingle Gin together with a selection of quality mixers and botanicals.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/97.jpg",
+"price": 75,
+"manufacturer": "Dingle Gin",
+"size": "Bulky",
+"weight": 4,
+"tags": ["Parent","Female","Food & Drink"]
+}
+
+{
+"id": "98"
+"name": "Craft Beer Advent Box",
+"description": "24 cans of Christmassy cheer from independent breweries across Ireland.",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/98.jpg",
+"price": 75,
+"manufacturer": "Beer Clound",
+"size": "Bulky",
+"weight": 4,
+"tags": ["Parent","Male","Food & Drink"]
+}
+
+{
+"id": "99"
+"name": "Stone Ground Plain Flour",
+"description": "General Purpose Plain Flour, Certified Organic, 4kg",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/99.jpg",
+"price": 25,
+"manufacturer": "Ballymore Organics",
+"size": "Medium",
+"weight": 4 ,
+"tags": ["Grand-Parent","Female","Food & Drink"]
+}
+
+{
+"id": "100"
+"name": "Shines of Killybegs – Seafood gift box",
+"description": "2 x tin of Shines Wild Irish Tuna in Olive Oil,  2 x tin of Shines Premium Sardines in Olive Oil, 2 x tin of Shines Wild Irish Ventresca ( only available online)",
+"image": "https://raw.githubusercontent.com/Team-Vandium/data/main/100.jpg",
+"price": 44.99,
+"manufacturer": "Shines of Killybegs",
+"size": "small",
+"weight": 2,
+"tags": ["Parent","Both","Food & Drink"]
+}
+
+]
+
+}
