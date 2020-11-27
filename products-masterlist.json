@@ -4,39 +4,48 @@
 "Delivery Cost": [
 
 {
-	"category": "small<500g",
+	"size": "small",
+	"weight": <500,
 	"Cost": 3
 },
 {
-	"category": "small<4kg",
+	"size": "small",
+	"weight": <4000,
 	"Cost": 4.5
 },
 {
-	"category": "small>4kg",
+	"size": "small",
+	"weight": >4000,
 	"Cost":  6
 },
 {  
-	"category": "medium<500g",
+	"size": "medium",
+	"weight": <500,
 	"Cost": 5
 },
 {
-	"category": "medium<4kg",
+	"size": "medium",
+	"weight": <4000,
 	"Cost": 7.5
 },
 {
-	"category": "medium>4kg",
-	"Cost": 120
-},
-{
-	"category": "large<500g",
-	"Cost": 8
-},
-{
-	"category": "large<4kg",
+	"size": "medium",
+	"weight": >4000,
 	"Cost": 12
 },
 {
-	"category": "large>4kg",
+	"size": "large",
+	"weight": <500,
+	"Cost": 8
+},
+{
+	"size": "large",
+	"weight": <4000,
+	"Cost": 12
+},
+{
+	"size": "large",
+	"weight": >4000,
 	"Cost": 16
 }
 ],
