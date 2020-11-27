@@ -1,7 +1,7 @@
 {
-"Free Delivery Threshold": 100,
+"freeDeliveryThreshold": 100,
 
-"Delivery Cost": [
+"deliveryCost": [
 
 {
 	"size": "small",
