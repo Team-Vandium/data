@@ -5,47 +5,47 @@
 
 {
 	"size": "small",
-	"weight": <500,
+	"weight": 500,
 	"Cost": 3
 },
 {
 	"size": "small",
-	"weight": <4000,
+	"weight": 4000,
 	"Cost": 4.5
 },
 {
 	"size": "small",
-	"weight": >4000,
+	"weight": 20000,
 	"Cost":  6
 },
 {  
 	"size": "medium",
-	"weight": <500,
+	"weight": 500,
 	"Cost": 5
 },
 {
 	"size": "medium",
-	"weight": <4000,
+	"weight": 4000,
 	"Cost": 7.5
 },
 {
 	"size": "medium",
-	"weight": >4000,
+	"weight": 20000,
 	"Cost": 12
 },
 {
 	"size": "large",
-	"weight": <500,
+	"weight": 500,
 	"Cost": 8
 },
 {
 	"size": "large",
-	"weight": <4000,
+	"weight": 4000,
 	"Cost": 12
 },
 {
 	"size": "large",
-	"weight": >4000,
+	"weight": 20000,
 	"Cost": 16
 }
 ],
